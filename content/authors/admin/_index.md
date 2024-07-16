@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Sepyan Kristanto
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Sepyan P. Kristanto
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sepyan P.
+last_name: Kristanto
 
 # Status emoji
 status:
@@ -20,25 +20,25 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Lecturer |  Machine Learning Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Politeknik Negeri Banyuwangi
+    url: https://informatika.poliwangi.ac.id
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:sepyan@poliwangi.ac.id'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: #
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -47,38 +47,29 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning & Deep Learning
+  - Human Computer Interaction
+  - Software Engineering
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: MKom Teknologi Informasi
+    institution:Institut Sains dan Teknologi Terpadu Surabaya
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: -
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BS Computer Science
+    institution: Edith Cowan University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
-      
+      GPA: -
+
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
